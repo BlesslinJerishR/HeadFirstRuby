@@ -1,2 +1,3 @@
-# HeadFirstRuby
-Just a book about Ruby.
+## Head First Ruby
+- Just a book about Ruby.
+#### [ Developer : Blesslin Jerish R ]
